@@ -1934,7 +1934,7 @@ GameObject:
   - component: {fileID: 188416600}
   - component: {fileID: 188416599}
   m_Layer: 5
-  m_Name: Button
+  m_Name: Button Lanjut
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1948,7 +1948,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 188416597}
   m_LocalRotation: {x: -0.21118201, y: 0.08568875, z: 0.0060271216, w: 0.9736649}
-  m_LocalPosition: {x: 0, y: 0, z: -103.00002}
+  m_LocalPosition: {x: 0, y: 0, z: 164}
   m_LocalScale: {x: 1, y: 4.287, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1956,7 +1956,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: -24.348, y: 10.391, z: -1.538}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 460, y: -270}
+  m_AnchoredPosition: {x: 450, y: -280}
   m_SizeDelta: {x: 90, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &188416599
@@ -2030,7 +2030,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -15084,7 +15084,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4059803118367850933, guid: 0851c165510b8cb4d912008900667cd7, type: 3}
       propertyPath: m_Name
-      value: Cube (1)
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 4059803118367850938, guid: 0851c165510b8cb4d912008900667cd7, type: 3}
+      propertyPath: moveSpeed
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 4059803118367850940, guid: 0851c165510b8cb4d912008900667cd7, type: 3}
       propertyPath: uiCanvas
@@ -15096,7 +15100,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4059803118367850942, guid: 0851c165510b8cb4d912008900667cd7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.97
+      value: -5
       objectReference: {fileID: 0}
     - target: {fileID: 4059803118367850942, guid: 0851c165510b8cb4d912008900667cd7, type: 3}
       propertyPath: m_LocalPosition.y
@@ -15104,7 +15108,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4059803118367850942, guid: 0851c165510b8cb4d912008900667cd7, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -6.7
+      value: -4.84
       objectReference: {fileID: 0}
     - target: {fileID: 4059803118367850942, guid: 0851c165510b8cb4d912008900667cd7, type: 3}
       propertyPath: m_LocalRotation.w
@@ -17882,7 +17886,7 @@ GameObject:
   - component: {fileID: 1331565921}
   - component: {fileID: 1331565925}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: Canvas Quest
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17939,7 +17943,7 @@ Canvas:
   serializedVersion: 3
   m_RenderMode: 1
   m_Camera: {fileID: 519420031}
-  m_PlaneDistance: 10
+  m_PlaneDistance: 11
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
   m_OverrideSorting: 0
@@ -26241,7 +26245,7 @@ GameObject:
   - component: {fileID: 1850080182}
   - component: {fileID: 1850080183}
   m_Layer: 0
-  m_Name: download__15_-removebg-preview (2)
+  m_Name: handphone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26256,7 +26260,7 @@ Transform:
   m_GameObject: {fileID: 1850080181}
   serializedVersion: 2
   m_LocalRotation: {x: -0.2698932, y: -0, z: -0, w: 0.9628903}
-  m_LocalPosition: {x: -537, y: -96, z: -121}
+  m_LocalPosition: {x: -550, y: -96, z: -82}
   m_LocalScale: {x: 119.67562, y: 145.70882, z: 55.652172}
   m_ConstrainProportionsScale: 0
   m_Children: []
