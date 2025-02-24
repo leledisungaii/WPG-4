@@ -4,5 +4,50 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/main menu.unity
+    guid: 79adf6b44e4e29e4db77baef379880af
+  - enabled: 1
+    path: Assets/Scenes/Wikipedia Folder/wikipedia.unity
+    guid: a1ebbe75e778fa7489520cf6f8728542
+  - enabled: 1
+    path: Assets/Scenes/Wikipedia Folder/wikipedia 2.unity
+    guid: d45ede9a5914c0041babdd281c12c9f7
+  - enabled: 1
+    path: Assets/Scenes/Wikipedia Folder/wikipedia 3.unity
+    guid: ee50b2cc994941445a1427d123841fc6
+  - enabled: 1
+    path: Assets/Scenes/Wikipedia Folder/wikipedia 4.unity
+    guid: 30f5e2e198d36ca4d8ee318bdb1504e2
+  - enabled: 1
+    path: Assets/Scenes/Wikipedia Folder/wikipedia 5.unity
+    guid: 2de22f7b3a284274d9ec736f96ab577b
+  - enabled: 1
+    path: Assets/Scenes/Wikipedia Folder/wikipedia 6.unity
+    guid: 90d1acc9303852a41bfff98b96b42cf4
+  - enabled: 1
+    path: Assets/Scenes/Wikipedia Folder/wikipedia 7.unity
+    guid: 364d928e27c83074f8dbe1360666fa4c
+  - enabled: 1
+    path: Assets/Scenes/Wikipedia Folder/wikipedia 8.unity
+    guid: e2c808fd7128e454fad7e00f6926bd14
+  - enabled: 1
+    path: Assets/Scenes/win.unity
+    guid: d7314c91677f6224387830b7d2726d32
+  - enabled: 1
+    path: Assets/Scenes/main level for stage 1/Level1.unity
+    guid: fd7c87c3e2c35ad4089bf9afe0fd4f52
+  - enabled: 1
+    path: Assets/Scenes/main level for stage 1/Level2.unity
+    guid: db0ec8ca48a784b40923dd49e7d43abf
+  - enabled: 1
+    path: Assets/Scenes/main level for stage 1/Level3.unity
+    guid: 7f2fec722e83aad499e162cae2ca2ca6
+  - enabled: 1
+    path: Assets/Scenes/main level for stage 1/scorescene with next/scoretonext.unity
+    guid: 58cd0b06648ad5d4f8c2b6560a7d0e1b
+  - enabled: 1
+    path: Assets/Scenes/level menu.unity
+    guid: d872c7ff6dc410e4b92277eac50367f5
   m_configObjects: {}
